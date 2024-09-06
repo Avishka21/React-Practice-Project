@@ -1,0 +1,25 @@
+nav {
+  
+  padding: 1rem;
+}
+
+ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+}
+
+li {
+  color: white;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+/* Inside src/App.css */
+
+/* App.css */
+
+
